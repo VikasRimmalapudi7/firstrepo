@@ -1,2 +1,6 @@
 hello this is fourth commi
+<<<<<<< HEAD
 this is not a merge
+=======
+this is the merge
+>>>>>>> cdt
